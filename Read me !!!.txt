@@ -1,0 +1,10 @@
+-the depencencies that was used are all in 'requirement'
+-PROGRAMMING LANGUAGE:python/html5/css3
+-DEVELOPMENT ENVIRONMENT:django
+-DATABASE:SQLITE3
+Main files are : - fetch_rates.py
+                 - view.py
+                 - index.html
+-I saved all the dates in the sql server and the user can adjuste the number of record that he want to be displayed by using choosing the number and clicking on the the button 'affiche'
+-I added 5 dates from(2 august to 6 august) for testing purposes exepect those 5 dates all the dates were taking from scrapping the website 
+-I used the french language in the html file cause the main website were in french 
